@@ -1,5 +1,7 @@
 ![Header](https://github.com/theoldvalyria/theoldvalyria/blob/main/header.png)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F0D7F7&center=true&width=1000&lines=Data+Analyst)](https://git.io/typing-svg)
+
 Я — аналитик данных, увлеченный извлечением ценной информации из данных. Учусь в университете по направлению "Информатика и вычислительная техника". Добро пожаловать в мой GitHub профиль!
 
 
