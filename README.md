@@ -1,5 +1,3 @@
-![Header](https://github.com/theoldvalyria/theoldvalyria/blob/main/header.png)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F0D7F7&center=true&width=1000&lines=Data+Analyst)](https://git.io/typing-svg)
 
 В рамках обучения по направлению 'Информатика и вычислительная техника получила опыт работы с Python и SQL для анализа данных, а также навыки визуализации данных с помощью Power BI и Tableau.
@@ -43,9 +41,6 @@
 | 2 | [Исследование данных e-commerce](https://github.com/theoldvalyria/Ecommerce_Analysis) | Проект направлен на анализ данных о покупках, чтобы понять поведение пользователей, эффективность доставки заказов и частоту покупок товаров, выявление сегментов аудитории и понимание причин потери клиентов. | <kbd>Python</kbd> <kbd>Pandas</kbd> <kbd>Jupyter</kbd> <kbd>Matplotlib</kbd> <kbd>NumPy</kbd> <kbd>Seaborn</kbd> <kbd>requests</kbd> |
 | 3 | [A/B-тест для системы рекомендаций в приложении доставки](https://github.com/theoldvalyria/Python_Projects/tree/main/ab_test_food_delivery) | Проект направлен на проведение A/B-теста для оценки эффективности новой системы рекомендаций товаров в приложении для доставки продуктов - улучшила ли новая система рекомендации ключевые бизнес-метрики. | <kbd>Python</kbd> <kbd>Pandas</kbd> <kbd>Matplotlib</kbd> <kbd>Seaborn</kbd> <kbd>SciPy</kbd> <kbd>продуктовые метрики</kbd> <kbd>A/B-тестирование</kbd> <kbd>проверка стат гипотез</kbd> |
 | 4 | [Анализ данных из ClickHouse: Pandahouse](https://github.com/theoldvalyria/Python_Projects/tree/main/ETL_python_clickhouse) | Проект направлен на анализ данных объявлений на сайте сдачи жилья с использованием pandahouse для выгрузки данных из ClickHouse и последующего анализа в Python: исследование тенденции в ценах и популярности различных типов жилья. | <kbd>Python</kbd> <kbd>Pandas</kbd> <kbd>Pandahouse</kbd> <kbd>ClickHouse</kbd> <kbd>Matplotlib</kbd> <kbd>NumPy</kbd> <kbd>Seaborn</kbd> |
-| 5 | [Аналив AVOVA для приложения доставки](https://github.com/theoldvalyria/Python_Projects/tree/main/anova_test_delivery_app)| Проект направлен на проведение A/B-теста для оценки эффективности форматов фотографий и дизайна кнопки заказа в приложении доставки с использованием дисперсионного анализа (ANOVA). | <kbd>Python</kbd> <kbd>Pandas</kbd> <kbd>Matplotlib</kbd> <kbd>Seaborn</kbd> <kbd>SciPy</kbd> <kbd>statsmodels</kbd> <kbd>A/B-тестирование</kbd> <kbd>проверка стат гипотез</kbd> |
+| 5 | [Аналив ANOVA для приложения доставки](https://github.com/theoldvalyria/Python_Projects/tree/main/anova_test_delivery_app)| Проект направлен на проведение A/B-теста для оценки эффективности форматов фотографий и дизайна кнопки заказа в приложении доставки с использованием дисперсионного анализа (ANOVA). | <kbd>Python</kbd> <kbd>Pandas</kbd> <kbd>Matplotlib</kbd> <kbd>Seaborn</kbd> <kbd>SciPy</kbd> <kbd>statsmodels</kbd> <kbd>A/B-тестирование</kbd> <kbd>проверка стат гипотез</kbd> |
 | 6 | [Дашборды](https://public.tableau.com/app/profile/ruzilya.asfandiyarova/vizzes) | Дашборды для визуализации ключевых процессов в Tableau.  | <kbd>Tableau</kbd> |
-
-
-
 
