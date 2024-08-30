@@ -44,5 +44,6 @@
 | 5 | [Аналив ANOVA для приложения доставки](https://github.com/theoldvalyria/Python_Projects/tree/main/anova_test_delivery_app)| Проект направлен на проведение A/B-теста для оценки эффективности форматов фотографий и дизайна кнопки заказа в приложении доставки с использованием дисперсионного анализа (ANOVA). | <kbd>Python</kbd> <kbd>Pandas</kbd> <kbd>Matplotlib</kbd> <kbd>Seaborn</kbd> <kbd>SciPy</kbd> <kbd>statsmodels</kbd> <kbd>A/B-тестирование</kbd> <kbd>проверка стат гипотез</kbd> |
 | 6 | [Дашборды](https://public.tableau.com/app/profile/ruzilya.asfandiyarova/vizzes) | Дашборды для визуализации ключевых процессов в Tableau.  | <kbd>Tableau</kbd> |
 
-[![Karpov Courses Certificate](certificates/Karpov_Courses.png)](certificates/Karpov_Courses.pdf)
 
+## 🧠 Мои сертификаты
+[Karpov Courses Certificate](https://lab.karpov.courses/certificate/0e83b9c1-f8b3-4f5a-be45-41ec8e768252/)
